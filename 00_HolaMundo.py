@@ -1,0 +1,7 @@
+print("¡Hola mundo!")
+print("Quiero dormir :(")
+print("Hello, PcMaster")
+exit()
+print(1)
+print()
+#exit()

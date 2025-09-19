@@ -1,0 +1,1 @@
+print("Hoa chavo, este es un mensaje desde otro archivo")
